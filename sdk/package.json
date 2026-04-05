@@ -1,0 +1,42 @@
+{
+  "name": "@openbooklet/sdk",
+  "version": "0.2.0",
+  "description": "Official OpenBooklet SDK for programmatic skill fetching, search, and publishing",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "openbooklet",
+    "skills",
+    "ai",
+    "sdk",
+    "prompts"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quantumboost-io/openbooklet"
+  },
+  "homepage": "https://openbooklet.com",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0"
+  }
+}

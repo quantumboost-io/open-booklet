@@ -1,0 +1,46 @@
+{
+  "name": "@openbooklet/cli",
+  "version": "0.2.0",
+  "description": "CLI tool for the OpenBooklet skill marketplace",
+  "type": "module",
+  "bin": {
+    "ob": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "prepublishOnly": "npm run build"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "openbooklet",
+    "cli",
+    "skills",
+    "marketplace",
+    "claude",
+    "ai"
+  ],
+  "author": "OpenBooklet",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quantumboost-io/openbooklet"
+  },
+  "homepage": "https://openbooklet.com",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "js-yaml": "^4.1.1",
+    "ora": "^8.1.0"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

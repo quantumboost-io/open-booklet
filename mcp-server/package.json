@@ -1,0 +1,37 @@
+{
+  "name": "@openbooklet/mcp-server",
+  "version": "0.2.0",
+  "description": "OpenBooklet MCP Server — Browse, search, and pull AI agent skills from any MCP-compatible client",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "openbooklet-mcp": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "ai-agents",
+    "skills",
+    "openbooklet",
+    "claude-code",
+    "cursor"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quantumboost-io/openbooklet"
+  },
+  "homepage": "https://openbooklet.com",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.7.0"
+  }
+}

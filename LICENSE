@@ -1,0 +1,20 @@
+Copyright (c) 2026 QuantumBoost IO. All rights reserved.
+
+The source code in the `cli/`, `sdk/`, and `mcp-server/` directories of this
+repository is made available for reference, contribution, and personal use only.
+
+You may NOT:
+- Use this code to build a competing skills registry or marketplace
+- Redistribute this code as part of a commercial product or service
+- Sublicense, sell, or transfer this code
+
+You MAY:
+- Read and learn from this code
+- Contribute improvements via pull request
+- Use @openbooklet/cli, @openbooklet/sdk, and @openbooklet/mcp-server
+  as published on npm under their respective npm package licenses
+
+The OpenBooklet platform (website, API, database, and all infrastructure)
+is proprietary and not included in this repository.
+
+For licensing inquiries: hello@openbooklet.com
