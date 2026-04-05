@@ -28,4 +28,4 @@ included here. Bug reports for the platform belong in GitHub Issues.
 
 ## Questions?
 
-Open a Discussion or email hello@openbooklet.com
+Open a Discussion or email quantumboost.io@gmail.com
