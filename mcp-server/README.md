@@ -84,6 +84,6 @@ ob mcp-install openbooklet-mcp-server
 
 ## Links
 
-- [GitHub](https://github.com/quantumboost-io/openbooklet)
+- [GitHub](https://github.com/quantumboost-io/open-booklet)
 - [Full Docs](https://openbooklet.com/docs)
 - [Browse Skills](https://openbooklet.com/browse)

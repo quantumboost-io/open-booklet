@@ -170,8 +170,8 @@ Available tools: `search_skills`, `get_skill`, `pull_skill`, `get_trending`, `li
 ## Community
 
 - **Browse skills:** [openbooklet.com/browse](https://openbooklet.com/browse)
-- **Report a bug:** [Open an issue](https://github.com/quantumboost-io/openbooklet/issues)
-- **Request a feature:** [Open a discussion](https://github.com/quantumboost-io/openbooklet/discussions)
+- **Report a bug:** [Open an issue](https://github.com/quantumboost-io/open-booklet/issues)
+- **Request a feature:** [Open a discussion](https://github.com/quantumboost-io/open-booklet/discussions)
 - **Publish a skill:** [openbooklet.com/publish](https://openbooklet.com/publish)
 
 ---

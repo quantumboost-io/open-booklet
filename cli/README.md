@@ -62,6 +62,6 @@ OB_API_KEY=your_key ob publish
 
 ## Links
 
-- [GitHub](https://github.com/quantumboost-io/openbooklet)
+- [GitHub](https://github.com/quantumboost-io/open-booklet)
 - [Full Docs](https://openbooklet.com/docs)
 - [Browse Skills](https://openbooklet.com/browse)
