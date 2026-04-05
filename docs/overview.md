@@ -8,7 +8,7 @@ OpenBooklet is a universal skills registry for AI agents. Skills, workflows, and
 
 A **skill** is a structured prompt document that teaches an AI agent how to perform a specific task. Skills are written in Markdown with a YAML frontmatter block, published to the registry, and pulled by agents on demand.
 
-Skills are format-agnostic: the same skill works in Claude Code, Cursor, Copilot, ChatGPT, and 8+ other agents. The registry handles format conversion automatically.
+Skills are format-agnostic: the same skill works in Claude Code, Cursor, Copilot, ChatGPT, and more. The registry handles format conversion automatically.
 
 ### Workflows
 

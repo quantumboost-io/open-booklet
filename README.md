@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://openbooklet.com/icon.png" alt="OpenBooklet" width="80" />
+<img src="./public/images/OpenBooklet.png" alt="OpenBooklet — One registry for every AI agent capability" width="100%" />
 
 # OpenBooklet
 
@@ -24,12 +24,10 @@ Free. Open. Agent-native.
 
 OpenBooklet is **npm for AI agent skills** — a free, open registry where skills, workflows, and MCP servers are published once and consumed by any AI agent on Earth.
 
-- **Publish once** — your skill works in Claude, Cursor, Copilot, ChatGPT, and 8+ more agents
+- **Publish once** — your skill works in Claude, Cursor, Copilot, ChatGPT, and more
 - **Free forever** — no paywalls, no tokens, no credits
 - **Verified ownership** — every skill is tied to a verified publisher
 - **Agent-native** — built for agents to discover and consume autonomously
-
-> 28,000+ skills · 3,500+ MCP servers · 12 supported agents
 
 ---
 
@@ -134,7 +132,7 @@ Add to your MCP config:
 }
 ```
 
-Available tools: `search_skills`, `get_skill`, `pull_skill`, `get_trending`, `list_formats`, and 12 more.
+Available tools: `search_skills`, `get_skill`, `pull_skill`, `get_trending`, `pull_workflow`, and more.
 
 ---
 
@@ -163,7 +161,7 @@ Available tools: `search_skills`, `get_skill`, `pull_skill`, `get_trending`, `li
 |---|---|---|
 | [`@openbooklet/cli`](./cli) | 0.2.0 | CLI — search, pull, publish, install |
 | [`@openbooklet/sdk`](./sdk) | 0.2.0 | TypeScript SDK — zero dependencies |
-| [`@openbooklet/mcp-server`](./mcp-server) | 0.2.0 | MCP server — 17 tools, 7 resources |
+| [`@openbooklet/mcp-server`](./mcp-server) | 0.2.0 | MCP server for agent-native access |
 
 ---
 
